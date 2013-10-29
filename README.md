@@ -22,3 +22,7 @@ Bill:
 Lab Session: Tues. 2pm
 
 ![OCTOCATS](plumber.jpg "OCTOCATS")
+
+###New Features Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
+  + [BuzzFizz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
