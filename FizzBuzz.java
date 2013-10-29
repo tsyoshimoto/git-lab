@@ -4,7 +4,9 @@ public class FizzBuzz{
 			if(i%3 == 0) {
 				System.out.println(i + ": "+Fizz);
 			}
-			
+
+			if (i%5 == 0)
+				System.out.println("Buzz");
 		}
 	}
 }
